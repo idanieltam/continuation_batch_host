@@ -1,0 +1,14 @@
+{
+  "circuit": "host.KECCAKHASH.circuit.data",
+  "k": 22,
+  "instance_size": [],
+  "transcripts": [
+    "host.KECCAKHASH.0.transcript.data"
+  ],
+  "instances": [
+    "host.KECCAKHASH.0.instance.data"
+  ],
+  "param": "K22.params",
+  "name": "host.KECCAKHASH",
+  "hashtype": "Poseidon"
+}

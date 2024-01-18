@@ -1,0 +1,16 @@
+{
+  "circuit": "zkwasm.circuit.data",
+  "k": 22,
+  "instance_size": [
+    0
+  ],
+  "transcripts": [
+    "zkwasm.0.transcript.data"
+  ],
+  "instances": [
+    "zkwasm.0.instance.data"
+  ],
+  "param": "K22.params",
+  "name": "zkwasm",
+  "hashtype": "Poseidon"
+}

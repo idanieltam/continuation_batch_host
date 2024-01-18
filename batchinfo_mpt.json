@@ -1,0 +1,17 @@
+{
+  "equivalents": [
+    {
+      "source": {"name": "mpt_guest", "proof_idx": 0, "column_name": "shared_opcode"},
+      "target": {"name": "keccak_host", "proof_idx": 0, "column_name": "shared_opcode"}
+    },
+    {
+      "source": {"name": "mpt_guest", "proof_idx": 0, "column_name": "shared_operand"},
+      "target": {"name": "keccak_host", "proof_idx": 0, "column_name": "shared_operand"}
+    }
+  ],
+  "expose": [
+    {"name": "mpt_keccak_batch", "proof_idx": 3, "column_name": "context_input"},
+    {"name": "mpt_keccak_batch", "proof_idx": 4, "column_name": "context_output"}
+  ],
+  "absorb": []
+}
